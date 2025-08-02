@@ -1,2 +1,4 @@
 # frist-repos
-this is the other of them
+this is the frist repostry
+<br>
+athuor by sanika 
